@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestTaskInstagram</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_oauth">Authorization</string>
+    <string name="title_activity_comments">Comments</string>
+
+</resources>
